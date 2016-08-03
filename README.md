@@ -1,7 +1,7 @@
 # pyScripts
 Contains misc data analysis python3 scripts
 
-For developmennt or prototyping purpose only.
+For development or prototyping purpose only.
 Maintenance, testing and documentation is randomly provided.
 
 * GenericClass
